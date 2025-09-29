@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_add_detail_currency_iso">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Monedas</name>
+  <customvalues>
+    <customvalue scriptid="_mxn">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>MXN</value>
+    </customvalue>
+    <customvalue scriptid="_xeu">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>XEU</value>
+    </customvalue>
+    <customvalue scriptid="_usd">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>USD</value>
+    </customvalue>
+  </customvalues>
+</customlist>

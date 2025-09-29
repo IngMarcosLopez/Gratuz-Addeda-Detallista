@@ -1,0 +1,14 @@
+<customlist scriptid="customlist_add_detail_tipo_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Tipo</name>
+  <customvalues>
+    <customvalue scriptid="_simpleinvoicetype">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>simpleinvoicetype</value>
+    </customvalue>
+  </customvalues>
+</customlist>

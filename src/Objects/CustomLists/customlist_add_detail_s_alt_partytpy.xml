@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_s_alt_partytpy">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Alt. Party Identification</name>
+  <customvalues>
+    <customvalue scriptid="_seller_assigned_identifier_for_a_party">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>SELLER_ASSIGNED_IDENTIFIER_FOR_A_PARTY</value>
+    </customvalue>
+    <customvalue scriptid="_ieps_reference">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>IEPS_REFERENCE</value>
+    </customvalue>
+  </customvalues>
+</customlist>

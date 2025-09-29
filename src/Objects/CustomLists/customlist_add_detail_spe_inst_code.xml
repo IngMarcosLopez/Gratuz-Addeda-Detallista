@@ -1,0 +1,29 @@
+<customlist scriptid="customlist_add_detail_spe_inst_code">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Codigo de Inst. Especial</name>
+  <customvalues>
+    <customvalue scriptid="_aab">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AAB</value>
+    </customvalue>
+    <customvalue scriptid="_dut">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>DUT</value>
+    </customvalue>
+    <customvalue scriptid="_pur">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PUR</value>
+    </customvalue>
+    <customvalue scriptid="_zzz">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ZZZ</value>
+    </customvalue>
+  </customvalues>
+</customlist>

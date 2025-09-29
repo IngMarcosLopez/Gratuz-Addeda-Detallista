@@ -1,0 +1,49 @@
+<customlist scriptid="customlist_add_detail_enty_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Entity Type</name>
+  <customvalues>
+    <customvalue scriptid="_invoice">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>INVOICE</value>
+    </customvalue>
+    <customvalue scriptid="_debit_note">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>DEBIT_NOTE</value>
+    </customvalue>
+    <customvalue scriptid="_credit_note">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CREDIT_NOTE</value>
+    </customvalue>
+    <customvalue scriptid="_lease_receipt">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>LEASE_RECEIPT</value>
+    </customvalue>
+    <customvalue scriptid="_honorary_receipt">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>HONORARY_RECEIPT</value>
+    </customvalue>
+    <customvalue scriptid="_partial_invoice">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PARTIAL_INVOICE</value>
+    </customvalue>
+    <customvalue scriptid="_transport_document">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TRANSPORT_DOCUMENT</value>
+    </customvalue>
+    <customvalue scriptid="_auto_invoice">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AUTO_INVOICE</value>
+    </customvalue>
+  </customvalues>
+</customlist>

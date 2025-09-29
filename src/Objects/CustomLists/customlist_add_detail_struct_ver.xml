@@ -1,0 +1,14 @@
+<customlist scriptid="customlist_add_detail_struct_ver">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Version de Estructura</name>
+  <customvalues>
+    <customvalue scriptid="_amc8_1">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AMC8.1</value>
+    </customvalue>
+  </customvalues>
+</customlist>

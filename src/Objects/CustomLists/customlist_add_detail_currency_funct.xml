@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_add_detail_currency_funct">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Funcion Moneda</name>
+  <customvalues>
+    <customvalue scriptid="_billing_currency">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>BILLING_CURRENCY</value>
+    </customvalue>
+    <customvalue scriptid="_price_currency">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PRICE_CURRENCY</value>
+    </customvalue>
+    <customvalue scriptid="_payment_currency">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PAYMENT_CURRENCY</value>
+    </customvalue>
+  </customvalues>
+</customlist>

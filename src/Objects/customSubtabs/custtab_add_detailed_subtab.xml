@@ -1,0 +1,5 @@
+<subtab scriptid="custtab_add_detailed_subtab">
+  <parent>[appid=com.netsuite.gratuzmxlocalizacion, scriptid=custtab_gtz_trans_electronic_invoice]</parent>
+  <tabtype>TRANSACTION</tabtype>
+  <title>Addenda Detallista</title>
+</subtab>

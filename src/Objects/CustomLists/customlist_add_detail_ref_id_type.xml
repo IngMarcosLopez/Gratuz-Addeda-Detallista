@@ -1,0 +1,49 @@
+<customlist scriptid="customlist_add_detail_ref_id_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Tipo de Id. de Referencia</name>
+  <customvalues>
+    <customvalue scriptid="_aae">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AAE</value>
+    </customvalue>
+    <customvalue scriptid="_ck">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CK</value>
+    </customvalue>
+    <customvalue scriptid="_ace">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ACE</value>
+    </customvalue>
+    <customvalue scriptid="_atz">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ATZ</value>
+    </customvalue>
+    <customvalue scriptid="_dq">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>DQ</value>
+    </customvalue>
+    <customvalue scriptid="_iv">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>IV</value>
+    </customvalue>
+    <customvalue scriptid="_on">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ON</value>
+    </customvalue>
+    <customvalue scriptid="_awr">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AWR</value>
+    </customvalue>
+  </customvalues>
+</customlist>

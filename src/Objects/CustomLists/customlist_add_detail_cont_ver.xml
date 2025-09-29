@@ -1,0 +1,14 @@
+<customlist scriptid="customlist_add_detail_cont_ver">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Version de Contenido</name>
+  <customvalues>
+    <customvalue scriptid="_1_3_1">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>1.3.1</value>
+    </customvalue>
+  </customvalues>
+</customlist>

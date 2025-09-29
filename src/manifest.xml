@@ -1,0 +1,35 @@
+<manifest projecttype="SUITEAPP">
+  <publisherid>com.netsuite</publisherid>
+  <projectid>addendadetallista</projectid>
+  <projectname>Addeda Detallista</projectname>
+  <projectversion>0.0.1</projectversion>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="false">ASSEMBLIES</feature>
+      <feature required="false">EXPREPORTS</feature>
+      <feature required="false">ADVRECEIVING</feature>
+      <feature required="false">MULTILOCINVT</feature>
+      <feature required="false">MATRIXITEMS</feature>
+      <feature required="false">INVENTORY</feature>
+      <feature required="false">CUSTOMTRANSACTIONS</feature>
+      <feature required="false">RECEIVABLES</feature>
+      <feature required="false">PAYABLES</feature>
+      <feature required="false">PERIODENDJOURNALENTRIES</feature>
+      <feature required="false">OPPORTUNITIES</feature>
+      <feature required="false">ACCOUNTING</feature>
+      <feature required="false">WORKORDERS</feature>
+    </features>
+    <applications>
+      <application id="com.netsuite.gratuzmxlocalizacion">
+        <objects>
+          <object>custtab_gtz_item_electronic_invoice</object>
+          <object>custcentertab_gtz_factura_electronica_tab_center</object>
+          <object>customrecord_gtz_pedimentos_facturacion</object>
+          <object>custtab_gtz_trans_electronic_invoice</object>
+          <object>customrecord_gtz_pedimentos_facturacion.tab_gtz_rel_rec_fe_pedimento</object>
+        </objects>
+      </application>
+    </applications>
+  </dependencies>
+</manifest>

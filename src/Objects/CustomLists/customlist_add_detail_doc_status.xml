@@ -1,0 +1,29 @@
+<customlist scriptid="customlist_add_detail_doc_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Estatus del Documento</name>
+  <customvalues>
+    <customvalue scriptid="_original">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ORIGINAL</value>
+    </customvalue>
+    <customvalue scriptid="_copy">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>COPY </value>
+    </customvalue>
+    <customvalue scriptid="_delete">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>DELETE</value>
+    </customvalue>
+    <customvalue scriptid="_reemplaza">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>REEMPLAZA</value>
+    </customvalue>
+  </customvalues>
+</customlist>

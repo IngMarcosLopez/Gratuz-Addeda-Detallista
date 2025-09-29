@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_ic_alt_party_tpy">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add IC Alt. Party Id. Tpy</name>
+  <customvalues>
+    <customvalue scriptid="_va">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>VA</value>
+    </customvalue>
+    <customvalue scriptid="_ia">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>IA</value>
+    </customvalue>
+  </customvalues>
+</customlist>
