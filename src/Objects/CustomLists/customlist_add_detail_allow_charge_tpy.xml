@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_allow_charge_tpy">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Allowance Charge Type</name>
+  <customvalues>
+    <customvalue scriptid="_allowance_global">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ALLOWANCE_GLOBAL</value>
+    </customvalue>
+    <customvalue scriptid="_charge_global">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CHARGE_GLOBAL</value>
+    </customvalue>
+  </customvalues>
+</customlist>

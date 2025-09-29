@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_settlement_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Settlement Type</name>
+  <customvalues>
+    <customvalue scriptid="_bill_back">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>BILL_BACK</value>
+    </customvalue>
+    <customvalue scriptid="_off_invoice">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>OFF_INVOICE</value>
+    </customvalue>
+  </customvalues>
+</customlist>

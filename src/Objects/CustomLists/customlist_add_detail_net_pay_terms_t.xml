@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_add_detail_net_pay_terms_t">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Net Payment Terms Type</name>
+  <customvalues>
+    <customvalue scriptid="_basic_net">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>BASIC_NET</value>
+    </customvalue>
+    <customvalue scriptid="_end_of_month">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>END_OF_MONTH</value>
+    </customvalue>
+    <customvalue scriptid="_basic_discount_offered">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>BASIC_DISCOUNT_OFFERED</value>
+    </customvalue>
+  </customvalues>
+</customlist>

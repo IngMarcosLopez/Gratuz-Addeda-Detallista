@@ -1,0 +1,161 @@
+<customlist scriptid="customlist_add_detail_special_serv_tpy">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Special Services Type</name>
+  <customvalues> 
+    <customvalue scriptid="_aa">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AA</value>
+    </customvalue>
+    <customvalue scriptid="_aj">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AJ</value>
+    </customvalue>
+    <customvalue scriptid="_ado">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ADO</value>
+    </customvalue>
+    <customvalue scriptid="_adt">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ADT</value>
+    </customvalue>
+    <customvalue scriptid="_ads">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ADS</value>
+    </customvalue>
+    <customvalue scriptid="_abz">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ABZ</value>
+    </customvalue>
+    <customvalue scriptid="_da">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>DA</value>
+    </customvalue>
+    <customvalue scriptid="_eaa">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>EAA</value>
+    </customvalue>
+    <customvalue scriptid="_eab">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>EAB</value>
+    </customvalue>
+    <customvalue scriptid="_pi">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PI</value>
+    </customvalue>
+    <customvalue scriptid="_tae">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TAE</value>
+    </customvalue>
+    <customvalue scriptid="_sab">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>SAB</value>
+    </customvalue>
+    <customvalue scriptid="_raa">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>RAA</value>
+    </customvalue>
+    <customvalue scriptid="_pad">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PAD</value>
+    </customvalue>
+    <customvalue scriptid="_fg">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>FG</value>
+    </customvalue>
+    <customvalue scriptid="_fa">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>FA</value>
+    </customvalue>
+    <customvalue scriptid="_td">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TD</value>
+    </customvalue>
+    <customvalue scriptid="_ts">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TS</value>
+    </customvalue>
+    <customvalue scriptid="_tx">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TX</value>
+    </customvalue>
+    <customvalue scriptid="_tz">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TZ</value>
+    </customvalue>
+    <customvalue scriptid="_zzz_2">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ZZZ</value>
+    </customvalue>
+    <customvalue scriptid="_vab">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>VAB</value>
+    </customvalue>
+    <customvalue scriptid="_um">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>UM</value>
+    </customvalue>
+    <customvalue scriptid="_di">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>DI</value>
+    </customvalue>
+    <customvalue scriptid="_cac">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CAC</value>
+    </customvalue>
+    <customvalue scriptid="_cod">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>COD</value>
+    </customvalue>
+    <customvalue scriptid="_fc">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>FC</value>
+    </customvalue>
+    <customvalue scriptid="_fi">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>FI</value>
+    </customvalue>
+    <customvalue scriptid="_hd">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>HD</value>
+    </customvalue>
+    <customvalue scriptid="_qd">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>QD</value>
+    </customvalue>
+    
+    
+  </customvalues>
+</customlist>

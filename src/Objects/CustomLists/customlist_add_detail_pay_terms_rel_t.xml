@@ -1,0 +1,14 @@
+<customlist scriptid="customlist_add_detail_pay_terms_rel_t">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Payment Terms Rel. Time</name>
+  <customvalues>
+    <customvalue scriptid="_effective_date">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>EFFECTIVE_DATE</value>
+    </customvalue>
+  </customvalues>
+</customlist>

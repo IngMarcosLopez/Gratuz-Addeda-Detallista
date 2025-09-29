@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_pay_terms_ev">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Payment Terms Event</name>
+  <customvalues>
+    <customvalue scriptid="_date_of_invoice">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>DATE_OF_INVOICE</value>
+    </customvalue>
+    <customvalue scriptid="_effective_date">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>EFFECTIVE_DATE</value>
+    </customvalue>
+  </customvalues>
+</customlist>

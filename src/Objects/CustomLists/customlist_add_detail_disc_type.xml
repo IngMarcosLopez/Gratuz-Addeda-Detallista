@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_disc_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Discount Type</name>
+  <customvalues>
+    <customvalue scriptid="_allowance_by_payment_on_time">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ALLOWANCE_BY_PAYMENT_ON_TIME</value>
+    </customvalue>
+    <customvalue scriptid="_sanction">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>SANCTION</value>
+    </customvalue>
+  </customvalues>
+</customlist>
