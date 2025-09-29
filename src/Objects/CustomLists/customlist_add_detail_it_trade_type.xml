@@ -1,30 +1,29 @@
-<customlist scriptid="customlist_add_detail_settlement_type">
+<customlist scriptid="customlist_add_detail_it_trade_type">
   <description></description>
   <isinactive>F</isinactive>
   <ismatrixoption>F</ismatrixoption>
   <isordered>T</isordered>
-  <name>Add Settlement Type</name>
+  <name>Add Trade Item Ident. Type</name>
   <customvalues>
-    <customvalue scriptid="_bill_back">
+    <customvalue scriptid="_buyer_assigned">
       <abbreviation>s</abbreviation>
       <isinactive>F</isinactive>
-      <value>BILL_BACK</value>
+      <value>BUYER_ASSIGNED</value>
     </customvalue>
-    <customvalue scriptid="_off_invoice">
+    <customvalue scriptid="_supplier_assigned">
       <abbreviation>s</abbreviation>
       <isinactive>F</isinactive>
-      <value>OFF_INVOICE</value>
+      <value>SUPPLIER_ASSIGNED</value>
     </customvalue>
-    <customvalue scriptid="_charge_to_be_paid_by_vendor">
+    <customvalue scriptid="_serial_number">
       <abbreviation>s</abbreviation>
       <isinactive>F</isinactive>
-      <value>CHARGE_TO_BE_PAID_BY_VENDOR</value>
+      <value>SERIAL_NUMBER</value>
     </customvalue>
-    <customvalue scriptid="_charge_to_be_paid_by_customer">
+    <customvalue scriptid="_global_trade_item_identification">
       <abbreviation>s</abbreviation>
       <isinactive>F</isinactive>
-      <value>CHARGE_TO_BE_PAID_BY_CUSTOMER</value>
-    </customvalue>
-    
+      <value>GLOBAL_TRADE_ITEM_IDENTIFICATION</value>
+    </customvalue>    
   </customvalues>
 </customlist>

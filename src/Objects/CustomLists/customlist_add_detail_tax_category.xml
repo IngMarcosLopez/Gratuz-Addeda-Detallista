@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_add_detail_tax_category">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Tax Category</name>
+  <customvalues>
+    <customvalue scriptid="_transferido">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TRANSFERIDO</value>
+    </customvalue>
+    <customvalue scriptid="_retenido">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>RETENIDO</value>
+    </customvalue>
+    
+  </customvalues>
+</customlist>

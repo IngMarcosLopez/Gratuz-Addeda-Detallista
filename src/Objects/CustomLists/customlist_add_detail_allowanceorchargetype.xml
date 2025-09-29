@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_settlement_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Settlement Type</name>
+  <customvalues>
+    <customvalue scriptid="_allowance">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ALLOWANCE</value>
+    </customvalue>
+    <customvalue scriptid="_charge">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CHARGE</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_transport_py_tpy">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Transport Payment Type</name>
+  <customvalues>
+    <customvalue scriptid="_prepaid_by_seller">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PREPAID_BY_SELLER</value>
+    </customvalue>
+    <customvalue scriptid="_paid_by_buyer">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PAID_BY_BUYER</value>
+    </customvalue>
+  </customvalues>
+</customlist>

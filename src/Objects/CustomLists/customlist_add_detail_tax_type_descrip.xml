@@ -1,0 +1,54 @@
+<customlist scriptid="customlist_add_detail_tax_type_descrip">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Tax Type Description</name>
+  <customvalues>
+    <customvalue scriptid="_gst">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>GST</value>
+    </customvalue>
+    <customvalue scriptid="_vat">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>VAT</value>
+    </customvalue>
+    <customvalue scriptid="_lac">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>LAC</value>
+    </customvalue>
+    <customvalue scriptid="_aaa">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AAA</value>
+    </customvalue>
+    <customvalue scriptid="_add">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ADD</value>
+    </customvalue>
+    <customvalue scriptid="_fre">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>FRE</value>
+    </customvalue>
+    <customvalue scriptid="_loc">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>LOC</value>
+    </customvalue>
+    <customvalue scriptid="_stt">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>STT</value>
+    </customvalue>
+    <customvalue scriptid="_oth">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>OTH</value>
+    </customvalue>
+  </customvalues>
+</customlist>

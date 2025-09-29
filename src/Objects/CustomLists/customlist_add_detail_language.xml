@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_language">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Idioma</name>
+  <customvalues>
+    <customvalue scriptid="_es">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ES</value>
+    </customvalue>
+    <customvalue scriptid="_en">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>EN</value>
+    </customvalue>
+  </customvalues>
+</customlist>

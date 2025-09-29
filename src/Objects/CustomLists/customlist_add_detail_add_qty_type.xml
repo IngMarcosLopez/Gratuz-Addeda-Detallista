@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_add_detail_add_qty_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Additional Quantity Type</name>
+  <customvalues>
+    <customvalue scriptid="_num_consumer_units">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>NUM_CONSUMER_UNITS</value>
+    </customvalue>
+    <customvalue scriptid="_free_goods">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>FREE_GOODS</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_add_detail_pallet_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Add Pallet type</name>
+  <customvalues>
+    <customvalue scriptid="_exchange_pallets">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>EXCHANGE_PALLETS</value>
+    </customvalue>
+    <customvalue scriptid="_return_pallets">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>RETURN_PALLETS</value>
+    </customvalue>
+    <customvalue scriptid="_pallet_80x100">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PALLET_80x100</value>
+    </customvalue>
+    <customvalue scriptid="_case">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CASE</value>
+    </customvalue>
+    <customvalue scriptid="_box">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>BOX</value>
+    </customvalue>
+  </customvalues>
+</customlist>
