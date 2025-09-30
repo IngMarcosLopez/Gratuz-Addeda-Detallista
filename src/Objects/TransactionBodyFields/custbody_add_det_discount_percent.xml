@@ -1,6 +1,6 @@
-<transactionbodycustomfield scriptid="custbody_add_det_tpy_servicio_especial">
+<transactionbodycustomfield scriptid="custbody_add_det_discount_percent">
   <accesslevel>2</accesslevel>
-  <applyformatting>F</applyformatting>
+  <applyformatting>T</applyformatting>
   <bodyassemblybuild>F</bodyassemblybuild>
   <bodybom>F</bodybom>
   <bodycustomerpayment>F</bodycustomerpayment>
@@ -29,7 +29,7 @@
   <checkspelling>F</checkspelling>
   <defaultchecked>F</defaultchecked>
   <defaultselection></defaultselection>
-  <defaultvalue></defaultvalue>
+  <defaultvalue>0.0%</defaultvalue>
   <description></description>
   <displayheight></displayheight>
   <displaytype>NORMAL</displaytype>
@@ -37,24 +37,24 @@
   <dynamicdefault></dynamicdefault>
   <enabletextenhance>F</enabletextenhance>
   <encryptatrest>F</encryptatrest>
-  <fieldtype>SELECT</fieldtype>
+  <fieldtype>PERCENT</fieldtype>
   <fldsizelabel></fldsizelabel>
   <globalsearch>F</globalsearch>
   <help></help>
   <isformula>F</isformula>
   <ismandatory>F</ismandatory>
   <isparent>F</isparent>
-  <label>Tipo de Servicio Especial</label>
+  <label>Porcentaje de Descuento</label>
   <linktext></linktext>
   <maxlength></maxlength>
   <maxvalue></maxvalue>
   <minvalue></minvalue>
-  <onparentdelete>NO_ACTION</onparentdelete>
+  <onparentdelete></onparentdelete>
   <parentsubtab></parentsubtab>
   <searchcomparefield></searchcomparefield>
   <searchdefault></searchdefault>
   <searchlevel>2</searchlevel>
-  <selectrecordtype>[scriptid=customlist_add_detail_special_serv_tpy]</selectrecordtype>
+  <selectrecordtype></selectrecordtype>
   <showhierarchy>F</showhierarchy>
   <showinlist>F</showinlist>
   <sourcefilterby></sourcefilterby>

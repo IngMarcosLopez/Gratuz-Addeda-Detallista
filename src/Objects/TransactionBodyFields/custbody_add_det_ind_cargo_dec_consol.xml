@@ -1,4 +1,4 @@
-<transactionbodycustomfield scriptid="custbody_add_det_tpy_servicio_especial">
+<transactionbodycustomfield scriptid="custbody_add_det_ind_cargo_dec_consol">
   <accesslevel>2</accesslevel>
   <applyformatting>F</applyformatting>
   <bodyassemblybuild>F</bodyassemblybuild>
@@ -44,7 +44,7 @@
   <isformula>F</isformula>
   <ismandatory>F</ismandatory>
   <isparent>F</isparent>
-  <label>Tipo de Servicio Especial</label>
+  <label>Indicador de Cargo o Descuento Consolidado</label>
   <linktext></linktext>
   <maxlength></maxlength>
   <maxvalue></maxvalue>
@@ -54,7 +54,7 @@
   <searchcomparefield></searchcomparefield>
   <searchdefault></searchdefault>
   <searchlevel>2</searchlevel>
-  <selectrecordtype>[scriptid=customlist_add_detail_special_serv_tpy]</selectrecordtype>
+  <selectrecordtype>[scriptid=customlist_add_detail_allowanceorcharg]</selectrecordtype>
   <showhierarchy>F</showhierarchy>
   <showinlist>F</showinlist>
   <sourcefilterby></sourcefilterby>
