@@ -1,4 +1,4 @@
-<transactionbodycustomfield scriptid="custbody_add_detail_type">
+<transactionbodycustomfield scriptid="custbody_add_det_special_instr_txt">
   <accesslevel>2</accesslevel>
   <applyformatting>F</applyformatting>
   <bodyassemblybuild>F</bodyassemblybuild>
@@ -37,24 +37,24 @@
   <dynamicdefault></dynamicdefault>
   <enabletextenhance>F</enabletextenhance>
   <encryptatrest>F</encryptatrest>
-  <fieldtype>SELECT</fieldtype>
+  <fieldtype>TEXT</fieldtype>
   <fldsizelabel></fldsizelabel>
   <globalsearch>F</globalsearch>
   <help></help>
   <isformula>F</isformula>
   <ismandatory>F</ismandatory>
   <isparent>F</isparent>
-  <label>Tipo</label>
+  <label>Instrucciones Especiales (Texto)</label>
   <linktext></linktext>
   <maxlength></maxlength>
   <maxvalue></maxvalue>
   <minvalue></minvalue>
-  <onparentdelete>NO_ACTION</onparentdelete>
+  <onparentdelete></onparentdelete>
   <parentsubtab></parentsubtab>
   <searchcomparefield></searchcomparefield>
   <searchdefault></searchdefault>
   <searchlevel>2</searchlevel>
-  <selectrecordtype>[scriptid=customlist_add_detail_tipo_list]</selectrecordtype>
+  <selectrecordtype></selectrecordtype>
   <showhierarchy>F</showhierarchy>
   <showinlist>F</showinlist>
   <sourcefilterby></sourcefilterby>

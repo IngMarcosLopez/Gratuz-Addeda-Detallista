@@ -1,4 +1,4 @@
-<transactionbodycustomfield scriptid="custbody_add_det_special_instruction">
+<transactionbodycustomfield scriptid="custbody_add_det_addicional_id_ref">
   <accesslevel>2</accesslevel>
   <applyformatting>F</applyformatting>
   <bodyassemblybuild>F</bodyassemblybuild>
@@ -44,7 +44,7 @@
   <isformula>F</isformula>
   <ismandatory>F</ismandatory>
   <isparent>F</isparent>
-  <label>Instrucciones Especiales</label>
+  <label>Identificador de la Referencia Adicional</label>
   <linktext></linktext>
   <maxlength></maxlength>
   <maxvalue></maxvalue>
@@ -54,7 +54,7 @@
   <searchcomparefield></searchcomparefield>
   <searchdefault></searchdefault>
   <searchlevel>2</searchlevel>
-  <selectrecordtype>[scriptid=customlist_add_detail_spe_inst_code]</selectrecordtype>
+  <selectrecordtype>[scriptid=customlist_add_detail_ref_id_type]</selectrecordtype>
   <showhierarchy>F</showhierarchy>
   <showinlist>F</showinlist>
   <sourcefilterby></sourcefilterby>
